@@ -173,32 +173,6 @@ Interests:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohit782005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
-</div>
-
----
-
-## 🎯 Competitive Programming
-
-<div align="center">
-
-| Platform | Profile | Focus |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> | [@mohit78247](https://leetcode.com/mohit78247) | Data Structures & Algorithms |
-| <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> | [@mohit78fac5](https://www.geeksforgeeks.org/profile/mohit78fac5) | Problem Solving & CS Fundamentals |
-| <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> | [@mohit78241](https://www.kaggle.com/mohit78241) | ML Competitions & Notebooks |
-
-</div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/mohit78247?theme=dark&font=Baloo&ext=activity&border=0&radius=20" alt="LeetCode Stats" width="55%"/>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -210,14 +184,6 @@ Interests:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohit78241)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohit782005)
 
-</div>
-
----
-
-## 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 </div>
 
 ---
