@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- Waving Hi GIF -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+&nbsp;
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohit&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
