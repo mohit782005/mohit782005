@@ -1,35 +1,20 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=4&section=header" width="100%"/>
+<div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="65%" valign="middle" align="left">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Mohit&fontSize=90&fontColor=fff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20ML%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-&nbsp;&nbsp;&nbsp;
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=24&height=90&text=Mohit&fontSize=75&fontColor=fff&fontAlign=12&fontAlignY=70&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20GenAI%20Builder&descAlign=19&descAlignY=95&descSize=14" width="480"/>
+<img align="right" src="https://raw.githubusercontent.com/mohit782005/mohit782005/main/cat.gif" width="180"/>
 
-&nbsp;&nbsp;&nbsp;
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D9FF&vCenter=true&width=480&height=40&lines=AI+Engineer+%F0%9F%A4%96;LLM+%26+Generative+AI+Builder;Machine+Learning+Researcher;Deep+Learning+Practitioner;Building+Nexus-X+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=false&vCenter=true&width=500&height=55&lines=AI+Engineer+%F0%9F%A4%96;LLM+%26+Generative+AI+Builder;Deep+Learning+Practitioner;Building+Nexus-X+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
 <br/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=mohit782005&label=Profile%20Views&color=00D9FF&style=flat-square" />
+
+<img src="https://komarev.com/ghpvc/?username=mohit782005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/mohit782005?label=Followers&style=flat-square&color=00D9FF" />
+<img src="https://img.shields.io/github/followers/mohit782005?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
 
-</td>
-<td width="35%" valign="bottom" align="right">
-
-<img src="https://raw.githubusercontent.com/mohit782005/mohit782005/main/cat.gif" width="200" alt="hey there!"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=header&reversal=true" width="100%"/>
+</div>
 
 ---
 
