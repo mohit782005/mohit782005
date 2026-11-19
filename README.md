@@ -1,19 +1,31 @@
 # Hi, I'm Mohit
 
-**Software engineer building full-stack and backend systems, with a focus on integrating ML and LLMs into production apps.**
+**Software engineer with 1+ year of internship experience building full-stack and backend systems. Competitive programmer in C++.**
 
 Based in India. Currently co-building [Nexus-X](https://github.com/OP-Prajwal/nexus-X), a full-stack LLM orchestration platform, with a small team.
 
-[LinkedIn](https://www.linkedin.com/in/mohit782005) · [Email](mailto:mohit782005@gmail.com) · [LeetCode](https://leetcode.com/) <!-- replace with your LeetCode profile URL -->
+[LinkedIn](https://www.linkedin.com/in/mohit782005) · [Email](mailto:mohit782005@gmail.com) · [LeetCode](https://leetcode.com/) <!-- replace with your LeetCode profile URL; add Codeforces / CodeChef links here if you have them -->
 
 ---
 
+### Experience
+
+**Software Engineering Intern** · [Company Name] · [Mon YYYY – Mon YYYY]
+- [What you built, in one line: e.g. "Built REST APIs in Node.js for the internal dashboard"]
+- [One result: e.g. "Cut page load time by 40%" or "Shipped to 2,000+ users"]
+
+**Software Engineering Intern** · [Company Name] · [Mon YYYY – Mon YYYY]
+- [What you built]
+- [One result]
+
+<!-- Total across internships should add up to 1+ year. Delete the second block if it was one long internship. -->
+
 ### What I work on
 
-- **Backend:** REST APIs and services in Node.js / Express and FastAPI, backed by PostgreSQL and MongoDB
-- **Frontend & mobile:** React, Next.js and React Native apps
-- **Problem solving:** data structures & algorithms in Python and C <!-- add e.g. "400+ problems on LeetCode" if true -->
-- **Applied ML:** wiring PyTorch, TensorFlow and LangChain models into real applications
+- **Backend:** REST APIs and services in Node.js / Express and FastAPI, backed by PostgreSQL, MySQL and MongoDB
+- **Frontend & mobile:** React, Next.js, Tailwind CSS and React Native
+- **Competitive programming:** data structures & algorithms in C++ <!-- add ratings/counts if true, e.g. "LeetCode 1800+ · 500+ problems solved" -->
+- **Applied ML:** integrating PyTorch, TensorFlow and LangChain models into production apps
 
 ### Selected projects
 
@@ -31,6 +43,11 @@ Image-classification system that identifies toxic or harmful substances and trig
 
 ### Tech stack
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,go,c,nodejs,express,fastapi,react,nextjs,postgres,mongodb,docker,linux,git&perline=15" alt="Python, TypeScript, JavaScript, Go, C, Node.js, Express, FastAPI, React, Next.js, PostgreSQL, MongoDB, Docker, Linux, Git" />
-
-**ML / AI:** PyTorch, TensorFlow, scikit-learn, LangChain, Hugging Face, OpenCV
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,py,ts,js,go" alt="C++, Java, Python, TypeScript, JavaScript, Go" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express, FastAPI" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="React, Next.js, Tailwind CSS, HTML, CSS" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, MongoDB" /> |
+| **DevOps & tools** | <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode" alt="Docker, Linux, Git, GitHub, Postman, VS Code" /> |
+| **ML / AI** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="PyTorch, TensorFlow, scikit-learn" /> &nbsp; LangChain · Hugging Face · OpenCV · FAISS · Pinecone |
