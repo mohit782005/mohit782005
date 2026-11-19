@@ -8,18 +8,6 @@ Based in India. Currently co-building [Nexus-X](https://github.com/OP-Prajwal/ne
 
 ---
 
-### Experience
-
-**Software Engineering Intern** · [Company Name] · [Mon YYYY – Mon YYYY]
-- [What you built, in one line: e.g. "Built REST APIs in Node.js for the internal dashboard"]
-- [One result: e.g. "Cut page load time by 40%" or "Shipped to 2,000+ users"]
-
-**Software Engineering Intern** · [Company Name] · [Mon YYYY – Mon YYYY]
-- [What you built]
-- [One result]
-
-<!-- Total across internships should add up to 1+ year. Delete the second block if it was one long internship. -->
-
 ### What I work on
 
 - **Backend:** REST APIs and services in Node.js / Express and FastAPI, backed by PostgreSQL, MySQL and MongoDB
